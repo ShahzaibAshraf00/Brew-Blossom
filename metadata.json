@@ -1,0 +1,6 @@
+{
+  "name": "Brew & Blossom",
+  "description": "Artisanal coffee and botanical patisserie website for Brew & Blossom cafe featuring online ordering with cash on delivery and card payment options.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
